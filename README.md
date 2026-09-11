@@ -1,4 +1,4 @@
-<h1>Olá Mundo! Eu sou o Lucas</h1>
+<h1>Olá! Eu sou o Lucas</h1>
 
 - 🌱 Estudante de Cieência da Computação
 
